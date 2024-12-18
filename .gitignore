@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Virtual environment
+.env/
+.venv/
+Pipfile.lock
+
+# Django stuff
+*.log
+db.sqlite3
+media/
+staticfiles/
+static/
+
+# IDEs and editors
+.vscode/
+*.swp
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Mac and Linux files
+.DS_Store
+Thumbs.db
